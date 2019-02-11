@@ -1,0 +1,23 @@
+{
+  "name": "node-login-service",
+  "version": "1.0.0",
+  "description": "A simple node Login service implemented in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dropbeardan/Node-Login-Service.git"
+  },
+  "keywords": [
+    "login",
+    "service"
+  ],
+  "author": "dropbeardan (dan.ess.001@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dropbeardan/Node-Login-Service/issues"
+  },
+  "homepage": "https://github.com/dropbeardan/Node-Login-Service#readme"
+}
